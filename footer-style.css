@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');  
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.info-footer{
+    display: flex;
+}
+
+footer{
+    background-color: #000000;
+    padding-inline: 100px;
+}
+
+.categorias>h1, .time>h1, .pagamento>h1, .sociais>h1{
+    color: #ffffff;
+}
+
+.categorias, .time, .pagamento, .sociais{
+    padding-top: 50px;
+    padding-inline: 100px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    color: #d1d1d1;
+}
+
+.categorias>ul, .time>ul, .pagamento>ul, .sociais>ul{
+    list-style-type: none;
+}
+
+.pagamento>ul{
+    text-align: center;
+}
+
+.sociais>ul{
+    margin-top: 5px;
+    text-align: center;
+}
+
+.politica, .termo, .trocas, .pedido, .fale, .sobre, .doacoes, .parceiros{
+    text-decoration: none;
+    color: #d1d1d1;
+    font-size: 15px;
+}
+
+.divisao{
+    margin-top: 10px;
+}
+
+.logotipo{
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: lighter;
+    margin-top: 50px;
+    padding-left: 50px;
+}
+
+.copyright{
+    font-family: "Poppins", sans-serif;
+    color: #ffffff;
+    font-size: 9px;
+    padding-bottom: 30px;
+    position: relative;
+    left: 6px;
+}
+
+.contato{
+    position: absolute;
+    color: #d1d1d1;
+    font-family: "Poppins", sans-serif;
+    font-size: 11px;
+    right: 90px;
+    top: 265px;
+}
