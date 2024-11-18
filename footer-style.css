@@ -72,7 +72,11 @@ footer{
     position: absolute;
     color: #d1d1d1;
     font-family: "Poppins", sans-serif;
-    font-size: 11px;
+    font-size: 13px;
     right: 90px;
     top: 265px;
+}
+
+.contatos{
+    list-style-type: none;
 }
