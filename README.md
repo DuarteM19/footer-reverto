@@ -1,3 +1,3 @@
 # footer-reverto
 
-Footer feito para o projeto Reverto.
+## Footer feito para o projeto Reverto.
